@@ -1,4 +1,4 @@
-# Hux Blog模板小学生翻译(人人看得懂系列)
+# miniLV Blog模板
 
 
 ---
@@ -42,8 +42,8 @@ url: "https://github.com/miniLV/miniLV.github.io" # 特别要讲这个，直接�
 baseurl: "/"         # 特别要讲这个，直接用当前目录路径 - “/”
 
 
-# SNS settings    
-github_username: miniLV     # 你的github账号  
+# SNS settings
+github_username: miniLV     # 你的github账号
 juejin_username: 5a0a82ac6fb9a04515436530 #掘金账号
 jianshu_username: eb8d9cad0ff2 #简书账号
 
